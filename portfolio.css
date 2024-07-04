@@ -1,0 +1,21 @@
+h1{
+    color: rgb(246, 230, 8);
+    font-size: large;
+    text-align: left;
+}
+h2{
+    font-size: xxx-large;
+    color: rgb(12, 128, 236);
+    text-align: left;
+}
+body{
+    background-color: brown;
+}
+img{
+    max-width: 40%;
+    max-height: 40%;
+    float: right;
+}
+p{
+    font-size: large;
+}
